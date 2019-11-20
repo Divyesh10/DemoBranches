@@ -1,4 +1,4 @@
-pageextension 50126 ItemImport extends "Item Cards"
+pageextension 50126 ItemImport extends "Item Card"
 {
     /* TEST Branch Merge*/
     actions

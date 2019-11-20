@@ -1,4 +1,4 @@
-xmlport 50127 "AL Items Imports"
+xmlport 50127 "AL Items Import"
 {
     Format = VariableText;
     FormatEvaluate = Legacy;
